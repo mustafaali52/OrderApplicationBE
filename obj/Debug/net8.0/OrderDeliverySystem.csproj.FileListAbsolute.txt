@@ -1,0 +1,856 @@
+D:\OrderDeliverySystem\bin\Debug\net8.0\appsettings.Development.json
+D:\OrderDeliverySystem\bin\Debug\net8.0\appsettings.json
+D:\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.exe
+D:\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.deps.json
+D:\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.runtimeconfig.json
+D:\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.pdb
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.AssemblyReference.cache
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfoInputs.cache
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfo.cs
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.CoreCompileInputs.cache
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderDeliverySystem.props
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderDeliverySystem.props
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderDeliverySystem.props
+D:\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OrderDeliverySystem\obj\Debug\net8.0\scopedcss\bundle\OrderDeliverySystem.styles.css
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDel.6EEDFF4C.Up2Date
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.dll
+D:\OrderDeliverySystem\obj\Debug\net8.0\refint\OrderDeliverySystem.dll
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.pdb
+D:\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.genruntimeconfig.cache
+D:\OrderDeliverySystem\obj\Debug\net8.0\ref\OrderDeliverySystem.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Azure.Core.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Humanizer.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.ClientModel.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\appsettings.Development.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\appsettings.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.staticwebassets.endpoints.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.exe
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.deps.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.runtimeconfig.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Azure.Core.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Humanizer.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.ClientModel.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.AssemblyReference.cache
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfoInputs.cache
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfo.cs
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.CoreCompileInputs.cache
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\scopedcss\bundle\OrderDeliverySystem.styles.css
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDel.6EEDFF4C.Up2Date
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\refint\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.genruntimeconfig.cache
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\obj\Debug\net8.0\ref\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\Web Tech - Thursday\Mustafa Hassan Web Tech - Class Work\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\appsettings.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.exe
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.deps.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.runtimeconfig.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.pdb
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Humanizer.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.ClientModel.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.AssemblyReference.cache
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfoInputs.cache
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfo.cs
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.CoreCompileInputs.cache
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderDeliverySystem.props
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderDeliverySystem.props
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderDeliverySystem.props
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\scopedcss\bundle\OrderDeliverySystem.styles.css
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDel.6EEDFF4C.Up2Date
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\refint\OrderDeliverySystem.dll
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.pdb
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.genruntimeconfig.cache
+D:\Mustafa Hassan Web Tech\OrderDeliverySystem\obj\Debug\net8.0\ref\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\appsettings.Development.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\appsettings.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.staticwebassets.endpoints.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.exe
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.deps.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.runtimeconfig.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Azure.Core.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Humanizer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.ClientModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.AssemblyReference.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfoInputs.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfo.cs
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.csproj.CoreCompileInputs.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\scopedcss\bundle\OrderDeliverySystem.styles.css
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDel.6EEDFF4C.Up2Date
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\refint\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\OrderDeliverySystem.genruntimeconfig.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderDeliverySystem\obj\Debug\net8.0\ref\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\appsettings.Development.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\appsettings.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.staticwebassets.endpoints.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.exe
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.deps.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.runtimeconfig.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Azure.Core.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Azure.Identity.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Humanizer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.ClientModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.CodeDom.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Text.Json.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.csproj.AssemblyReference.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfoInputs.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.AssemblyInfo.cs
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.csproj.CoreCompileInputs.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\scopedcss\bundle\OrderDeliverySystem.styles.css
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets.build.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets.development.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets\msbuild.OrderDeliverySystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderDeliverySystem.props
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDel.6EEDFF4C.Up2Date
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\refint\OrderDeliverySystem.dll
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.pdb
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\OrderDeliverySystem.genruntimeconfig.cache
+D:\ZABIST\Spring 2025\WebTech-ClassWork\OrderApplicationBE\obj\Debug\net8.0\ref\OrderDeliverySystem.dll
