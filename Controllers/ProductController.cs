@@ -17,6 +17,7 @@ namespace OrderDeliverySystem.Controllers
             _dataBaseContext = dataBaseContext;
         }
 
+        [Authorize]
         [HttpGet]
         public async Task<IEnumerable<ProductDto>> GetProducts() { 
             var products = await _dataBaseContext.Products

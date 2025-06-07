@@ -16,7 +16,7 @@ namespace OrderDeliverySystem.Controllers
     {
         private readonly DataBaseContext _dataBaseContext;
         private readonly IConfiguration _configuration;
-        public AuthController (DataBaseContext dataBaseContext, IConfiguration configuration)
+        public AuthController(DataBaseContext dataBaseContext, IConfiguration configuration)
         {
             _dataBaseContext = dataBaseContext;
             _configuration = configuration;
@@ -40,7 +40,7 @@ namespace OrderDeliverySystem.Controllers
         }
 
         [HttpPost("login")]
-        public IActionResult Login (UserDto userRequest)
+        public IActionResult Login(UserDto userRequest)
         {
             var user = _dataBaseContext.Users.FirstOrDefault(x => x.UserName == userRequest.UserName);
             if (user == null) { return Unauthorized("Invalid Username!"); }
@@ -48,10 +48,10 @@ namespace OrderDeliverySystem.Controllers
             using var hmac = new HMACSHA512(user.PasswordSalt);
             var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(userRequest.Password));
             if (!computedHash.SequenceEqual(user.PasswordHash)) { return Unauthorized("Invalid Password!"); }
-            var token = CreateToken(userRequest);
+            Token token = CreateToken(user);
             return Ok(token);
         }
-        private string CreateToken (UserDto user)
+        private Token CreateToken(User user)
         {
             var claims = new[]
             {
@@ -65,7 +65,16 @@ namespace OrderDeliverySystem.Controllers
                     claims: claims,
                     expires: DateTime.UtcNow.AddHours(1),
                     signingCredentials: creds);
-            return new JwtSecurityTokenHandler().WriteToken(token);
+            Token getToken = new Token
+            {
+                token = new JwtSecurityTokenHandler().WriteToken(token)
+            };
+            return getToken;
+        }
+
+        public class Token
+        {
+            public string token { get; set; }
         }
     }
 }
